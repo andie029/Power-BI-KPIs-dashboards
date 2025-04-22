@@ -19,5 +19,20 @@ This Power BI dashboard was developed using synthetic data designed to mimic rea
 - **Excel/CSV** (data formatting and structuring)
 - **GitHub** (version control and public sharing)
 
-# 📁 Project Structure
+# 📸 Preview
+
+![Dashboard Preview](Screenshot/dashboard_view.png)
+
+> *Note: All data has been anonymized and synthetically generated to reflect realistic business logic from my internship project, without exposing any proprietary information.*
+
+## 📄 License
+
+This project is open under the [MIT License](LICENSE) – feel free to explore and learn from it.
+
+---
+
+### 📬 Contact
+
+If you’d like to connect or learn more about this project, feel free to reach out:
+**Anh Hoang** | [LinkedIn](https://www.linkedin.com) | [your@email.com]
 
