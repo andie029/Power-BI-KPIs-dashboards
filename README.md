@@ -8,8 +8,8 @@ This Power BI dashboard was developed using synthetic data designed to mimic rea
 
 - 20,000+ rows of realistic synthetic order data (2023–2025)
 - Connected dimension tables: Product Master, Customer Master
-- KPIs include Fill Rate %, Confirmed Order Value/Quantity, Canceled Value/Qty, and more
-- Filters by Brand, Class, Division, Category, and Date
+- KPIs include Fill Rate %, Confirmed Order Value/Quantity, Canceled Value/Qty, YTD update and more
+- Filters by Brand, Class, Division, Category, and Time
 - Clean one-to-many relationships across tables (Product ID, Customer Number)
 
 # 🧰 Tools Used
