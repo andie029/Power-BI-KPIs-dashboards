@@ -6,11 +6,11 @@ This Power BI dashboard was developed using synthetic data designed to mimic rea
 
 # 📌 Project Highlights
 
-- ✅ 20,000+ rows of realistic synthetic order data (2023–2025)
-- 📦 Connected dimension tables: Product Master, Customer Master
-- 📊 KPIs include Fill Rate %, Confirmed Order Value, Canceled Qty, and more
-- 🔍 Filters by Brand, Class, Division, Category, and Date
-- 📁 Clean one-to-many relationships across tables (Product ID, Customer Number)
+- 20,000+ rows of realistic synthetic order data (2023–2025)
+- Connected dimension tables: Product Master, Customer Master
+- KPIs include Fill Rate %, Confirmed Order Value/Quantity, Canceled Value/Qty, and more
+- Filters by Brand, Class, Division, Category, and Date
+- Clean one-to-many relationships across tables (Product ID, Customer Number)
 
 # 🧰 Tools Used
 
@@ -21,18 +21,12 @@ This Power BI dashboard was developed using synthetic data designed to mimic rea
 
 # 📸 Preview
 
-![Dashboard Preview](Screenshot/dashboard_view.png)
+![Dashboard Preview](Screenshot)
 
-> *Note: All data has been anonymized and synthetically generated to reflect realistic business logic from my internship project, without exposing any proprietary information.*
+*Note: All data has been anonymized and synthetically generated to reflect realistic business logic from my internship project, without exposing any proprietary information.*
 
-## 📄 License
-
-This project is open under the [MIT License](LICENSE) – feel free to explore and learn from it.
-
----
-
-### 📬 Contact
+# 📬 Contact
 
 If you’d like to connect or learn more about this project, feel free to reach out:
-**Anh Hoang** | [LinkedIn](https://www.linkedin.com) | [your@email.com]
+Anh Hoang | [LinkedIn](https://www.linkedin.com/in/anhhoang29/)]
 
